@@ -5,6 +5,13 @@ description:  The Freshest Drum & Bass Ratings
 permalink: /
 datatable: true 
 ---
+
+<ul>
+{% for date in site.data.choons %}
+  <li>{{ date.Rating" }}-{{ date.Artist }}</li>
+{% endfor %}
+</ul>
+
 <table id="sampleTable" class="display">
   {% for row in site.data.choons %}
     {% if forloop.first %}
