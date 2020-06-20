@@ -5,14 +5,9 @@ description:  The Freshest Drum & Bass Ratings
 permalink: /
 datatable: true 
 ---
-<div class="datatable-begin"></div>
 <ul>
-{% for date in site.data.choons %}
-  <li>{{ date.Rating" }}-{{ date.Artist }}</li>
-{% endfor %}
-</ul>
 
-second table 
+<div class="datatable-begin"></div>
 <table id="sampleTable" class="display">
   {% for row in site.data.choons %}
     {% if forloop.first %}
@@ -28,4 +23,5 @@ second table
     {% endtablerow %}
   {% endfor %}
 </table>
+</ul>
 <div class="datatable-end"></div>
