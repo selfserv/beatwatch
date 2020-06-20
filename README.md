@@ -9,7 +9,7 @@ datatable: true
 
 <div class="datatable-begin"></div>
 <table id="sampleTable" class="display">
-  {% for row in site.data.choons %}
+  {% for row in site.data.choons | sort: 'Rating' | reverse  %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
