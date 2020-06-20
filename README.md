@@ -1,3 +1,27 @@
+---
+layout: default
+title: Beat Watch - Proper Drum & Bass Ratings
+description:  The Freshest Drum & Bass Ratings
+permalink: /
+datatable: true 
+---
+<table id="sampleTable" class="display">
+  {% for row in site.data.choons %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/selfserv/beatwatch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
