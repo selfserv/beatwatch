@@ -1,13 +1,3 @@
----
-layout: default
-title: Beat Watch - Proper Drum & Bass Ratings
-description:  The Freshest Drum & Bass Ratings
-permalink: /
-datatable: true 
----
-<ul>
-
-<div class="datatable-begin"></div>
 <table id="sampleTable" class="display">
   {% for row in site.data.choons | sort: 'Rating' | reverse  %}
     {% if forloop.first %}
@@ -23,5 +13,3 @@ datatable: true
     {% endtablerow %}
   {% endfor %}
 </table>
-</ul>
-<div class="datatable-end"></div>
