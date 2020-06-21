@@ -1,4 +1,4 @@
-﻿Date Added,Rating,Artist(s),Title
+﻿Date Rated,Track Rating,Artist(s),Title
 6/20/20,3 Stars (Fresh),Sikka,Nice N Easy
 6/19/20,3 Stars (Fresh),"Randall, Ben Soundscape feat. MC Fats",Rollin' Ruff
 6/19/20,3 Stars (Fresh),"Villem, McLeod, Leo Wood",Siren
@@ -304,8 +304,8 @@
 3/17/19,4 Stars (Massive),Blu Mar Ten,Empire State
 3/17/19,4 Stars (Massive),Glaive feat. Kate McQuaide,All Is Not Lost (Pola & Bryson Remix)
 3/17/19,4 Stars (Massive),S.P.Y & Etherwood,Because Of You
-3/17/19,3 Stars (Fresh),"Blu Mar Ten, Robert Manos",Keep It Together (Calibre Remi
-3/17/19,3 Stars (Fresh),Komatic,seasons sleep
+3/17/19,3 Stars (Fresh),"Blu Mar Ten, Robert Manos",Keep It Together (Calibre Remix)
+3/17/19,3 Stars (Fresh),Komatic,Seasons Sleep
 3/13/19,3 Stars (Fresh),Tokyo Prose,Back To You
 3/13/19,4 Stars (Massive),Askel & Elere,Kupola feat. Leevi
 3/13/19,4 Stars (Massive),Hungry T,Friction On My Feet
@@ -458,8 +458,8 @@
 10/25/18,4 Stars (Massive),Philth,Your Love
 10/25/18,4 Stars (Massive),Seba,Close to You
 10/25/18,4 Stars (Massive),Technimatic feat. Jayma,Vermillion
-10/22/18,3 Stars (Fresh),"Nu_Tone, Degs",Broken
-10/22/18,3 Stars (Fresh),"Nu_Tone, Degs",Do You Like It
+10/22/18,3 Stars (Fresh),Nu:Tone & Degs,Broken
+10/22/18,3 Stars (Fresh),Nu:Tone & Degs,Do You Like It
 10/22/18,4 Stars (Massive),Degs & RD,She Wants You (Black Sheep Sprayout)
 10/22/18,4 Stars (Massive),Fanu,Siren Song
 10/22/18,3 Stars (Fresh),Break,Nevaeh (feat. Kyo)
@@ -588,7 +588,7 @@
 10/8/17,4 Stars (Massive),Noceur,You Can't Hold Me Down (feat. Charli Brix)
 10/8/17,4 Stars (Massive),Nombe,California Girls (Variants Remix)
 10/8/17,4 Stars (Massive),Sono,Little Black Heart
-10/8/17,4 Stars (Massive),Toronto Is Broken,Deep Freeze (Feat. Cianna Blaze)
+10/8/17,3 Stars (Fresh),Toronto Is Broken,Deep Freeze (Feat. Cianna Blaze)
 10/8/17,3 Stars (Fresh),A-Trak Feat. Andrew Wyatt,Push (Rene Lavice Remix)
 10/8/17,3 Stars (Fresh),Aruna,The End (Livewire Remix)
 10/8/17,3 Stars (Fresh),Detail,Delusion (feat. Tiiu)
@@ -1799,7 +1799,7 @@
 6/24/15,4 Stars (Massive),Etherwood,Souvenirs (feat. Zara Kershaw)
 6/24/15,4 Stars (Massive),Etherwood,Souvenirs (Ulterior Motive Remix)
 6/24/15,4 Stars (Massive),Urbandawn,Neon Nights
-6/24/15,3 Stars (Fresh),DrumNBass,Audiosketch & Surplus - Leave It All Behind (Villem & McLeod Remix)
+6/24/15,3 Stars (Fresh),Audiosketch & Surplus,Leave It All Behind (Villem & McLeod Remix)
 6/24/15,3 Stars (Fresh),DubRocca Remix,So Freakin Tight [DubRocca Remix]
 6/24/15,3 Stars (Fresh),EastColors,Siberia (feat. MC Swift)
 6/24/15,3 Stars (Fresh),HLZ,Dying Memories
@@ -1826,7 +1826,7 @@
 6/5/15,4 Stars (Massive),Mage Ft Skylar Grey,The Words I Never Said
 6/5/15,3 Stars (Fresh),Kwabs,Walk (Nu-Tone Remix)
 6/5/15,3 Stars (Fresh),LSB ft. Sian Sanderson,Overthinking
-6/5/15,3 Stars (Fresh),ZERO T ft. Riya,TRUTH HURTS
+6/5/15,3 Stars (Fresh),Zero T ft. Riya,TRUTH HURTS
 6/5/15,4 Stars (Massive),Artificial Intelligence & Command Strange ft Tali,Won't Say Goodbye
 6/5/15,4 Stars (Massive),BCee Ft. Villem & Frank H Carter III,I Believe
 6/5/15,4 Stars (Massive),Hybrid Minds,Blame
@@ -1854,13 +1854,13 @@
 6/1/15,3 Stars (Fresh),Emphonic,Knowless
 6/1/15,3 Stars (Fresh),Emphonic,Leaving Me Out
 6/1/15,3 Stars (Fresh),Emphonic,Nothing To Say feat Lusiula
-6/1/15,3 Stars (Fresh),Various Artists,Emphonic - Deep Vibes
-6/1/15,3 Stars (Fresh),Various Artists,Emphonic Feat. Lusiula - Morning Star
+6/1/15,3 Stars (Fresh),Emphonic,Deep Vibes
+6/1/15,3 Stars (Fresh),Emphonic,Morning Star
 5/26/15,4 Stars (Massive),Blockwork,Morning Music (Random Movement Remix)
 5/26/15,4 Stars (Massive),Logam & Mayhem,We Will (feat. Armanni Reign)
 5/26/15,4 Stars (Massive),Philth & P Fine,Greed
 5/26/15,4 Stars (Massive),SpectraSoul,Shelter VIP
-5/26/15,3 Stars (Fresh),Blue Sonix,Luv Me (feat. Michael Moulton)(Logistics Remix)
+5/26/15,3 Stars (Fresh),Blue Sonix,Luv Me (feat. Michael Moulton) (Logistics Remix)
 5/26/15,3 Stars (Fresh),Contour,Synapse (Bungle Remix)
 5/26/15,3 Stars (Fresh),Dub FX,Flow (DubXL Remix)
 5/26/15,3 Stars (Fresh),Eelke Kleijn,Mistakes (DC Breaks Remix)
@@ -1914,7 +1914,7 @@
 4/21/15,3 Stars (Fresh),Teebee & K,Lost Paradise
 4/21/15,3 Stars (Fresh),Total Science,Walk the Same Lines (feat. Riya)
 4/21/15,3 Stars (Fresh),Total Science feat. Riya,Cold Blood
-4/21/15,3 Stars (Fresh),Total Science Featuring MC Conrad,Soul Patrol (Lenzman Deep In Your Soul Remix) (Full Length Version)
+4/21/15,3 Stars (Fresh),Total Science Featuring MC Conrad,Soul Patrol (Lenzman Deep In Your Soul Remix)
 4/21/15,3 Stars (Fresh),Total Science Ft. Riya,Suspicious (Alix Perez Remix)
 4/21/15,3 Stars (Fresh),Unkle,In A State (Total Science Vocal Mix)
 4/16/15,4 Stars (Massive),Abstract Source,Tell Me feat. Elliot Chapman (Rowpieces remix)
@@ -1929,7 +1929,7 @@
 4/16/15,3 Stars (Fresh),Altitude/Paul SG,"Stay Strong (Original 12"" Mix)"
 4/16/15,3 Stars (Fresh),BCee & Lomax,"Get Up, Get Down"
 4/16/15,3 Stars (Fresh),Chorux,Don't Even Know
-4/16/15,3 Stars (Fresh),"Contract Killers, Soundwall",The Life Moments(Soundwall Remix)
+4/16/15,3 Stars (Fresh),Contract Killers,The Life Moments (Soundwall Remix)
 4/16/15,3 Stars (Fresh),The Dream Team,Yeah Man (Remix)
 4/16/15,3 Stars (Fresh),High Contrast,Lovesick
 4/16/15,3 Stars (Fresh),Keeno & Whiney,Dignity Found
@@ -1970,7 +1970,7 @@
 4/6/15,3 Stars (Fresh),David Boomah,Where Do We Go From Here? (One Love) (Calibre Remix)
 4/6/15,3 Stars (Fresh),Joe Goddard,Gabriel (Calibre Remix)
 4/6/15,3 Stars (Fresh),LJ High,i see vip
-4/6/15,3 Stars (Fresh),LJ. High,I See
+4/6/15,3 Stars (Fresh),LJ High,I See
 4/6/15,3 Stars (Fresh),Logistics,Version
 4/6/15,3 Stars (Fresh),Mage,We Are Not Angels (Nelver Remix)
 4/6/15,3 Stars (Fresh),Mobility,Sunrays Through Rain
@@ -2008,7 +2008,7 @@
 1/3/15,4 Stars (Massive),Utah Jazz,Dreaming Remix
 1/3/15,3 Stars (Fresh),Alex Reece & Utah Jazz,Northwest
 1/3/15,3 Stars (Fresh),Alex Reece & Utah Jazz,Bassline
-1/3/15,3 Stars (Fresh),Alex Reece + Utah Jazz,All Night Long
+1/3/15,3 Stars (Fresh),Alex Reece & Utah Jazz,All Night Long
 1/3/15,3 Stars (Fresh),Mash Up With Annie Mac,"DJ Yoda, Nero"
 1/3/15,3 Stars (Fresh),Utah Jazz,Invisible Cities feat Collette Warren
 1/3/15,3 Stars (Fresh),Utah Jazz,Crossing Frontiers
@@ -2115,9 +2115,6 @@
 10/3/14,5 Stars (Epic),Electrosoul System,Solar Substance (Cutworks Remix)
 10/3/14,5 Stars (Epic),"Kubiks, BCee & Lomax",Runaway
 10/3/14,3 Stars (Fresh),Changing Faces,Morning Sun
-10/3/14,3 Stars (Fresh),Electrosoul System,Teardrop (The Harmonist Remix 2)
-10/3/14,3 Stars (Fresh),Electrosoul System,Morning Forest (Bop Remix)
-10/3/14,3 Stars (Fresh),Sky Madison,Fast.track.inglish
 9/30/14,4 Stars (Massive),Zero T Feat. Steo,Too Much
 9/30/14,3 Stars (Fresh),Ladytron,Destroy Everything You Touch
 9/26/14,4 Stars (Massive),Aroma...Nice,Cam and Groove
@@ -2130,10 +2127,8 @@
 9/20/14,4 Stars (Massive),The Layabouts feat. Omar,As Long As You Believe (Julian Gomes Remix)
 9/20/14,4 Stars (Massive),Masters At Work Pres India,To Be In Love (MJ Cole Vocal)
 9/20/14,4 Stars (Massive),Route 94,In My Heart [MORRT Remix]
-9/20/14,3 Stars (Fresh),Mariah Carey,Loverboy (MJ Cole Remix)
-9/20/14,3 Stars (Fresh),MFM - Vittrup,Without You (Kato Mix)
+9/20/14,3 Stars (Fresh),MFM & Vittrup,Without You (Kato Mix)
 9/19/14,4 Stars (Massive),Nico,Am I Wrong [Alex Ross Remix]
-9/19/14,5 Stars (Epic),Elite Force,Here Come The Flow (Gella Mix)
 9/19/14,4 Stars (Massive),Endor,Found Out
 9/19/14,4 Stars (Massive),Hiatus,Hiatus - Save Yourself (Ray Keith remix)
 9/19/14,4 Stars (Massive),Justin Martin,Don't Go (Dusky Mix)
@@ -2147,7 +2142,6 @@
 9/19/14,3 Stars (Fresh),Ray Keith,Sing (Time)
 9/19/14,3 Stars (Fresh),Steve Gurley,Walk On By (CJ Reign Vocal Mix)
 9/15/14,4 Stars (Massive),default genders,stop pretending
-9/14/14,4 Stars (Massive),Lyla Foy,Impossible
 9/14/14,4 Stars (Massive),"MC Fats, Serum & Bladerunner",Inner Soul
 8/28/14,3 Stars (Fresh),Hybrid Minds,Forest (ft. Philippa Hanna)
 8/28/14,3 Stars (Fresh),Flite,Colorless
@@ -2293,7 +2287,7 @@
 6/24/14,3 Stars (Fresh),Bachelors Of Science ft. Redeyes,Hold on
 6/24/14,3 Stars (Fresh),Baron,Decade
 6/24/14,3 Stars (Fresh),Baron,"Half Light, Half Life"
-6/24/14,3 Stars (Fresh),Basic Operations,4th Street Sound Click (Kubiks & Lomax )
+6/24/14,3 Stars (Fresh),Basic Operations,4th Street Sound Click (Kubiks & Lomax Remix)
 6/24/14,3 Stars (Fresh),Bass Tikal & Mex-E,The Music
 6/24/14,3 Stars (Fresh),Bazeado,Segunda feira (Bungle remix)
 6/24/14,3 Stars (Fresh),Bcee,Disciple (Watch in HD!)
@@ -2359,8 +2353,6 @@
 6/24/14,3 Stars (Fresh),Imogen Heap,Headlock (High Contrast Remix)
 6/24/14,3 Stars (Fresh),InContext,Say my name
 6/24/14,3 Stars (Fresh),InContext,There for me
-6/24/14,3 Stars (Fresh),Jai Paul,BTSTU (Magadishu Remix) -
-6/24/14,3 Stars (Fresh),Jai Paul,Jasmine - (2)
 6/24/14,3 Stars (Fresh),John B,Numbers (Camo & Krooked Remix)
 6/24/14,3 Stars (Fresh),Jontey,Soul Surgery
 6/24/14,3 Stars (Fresh),Kabuki ft. Jenna G,Rock This Style
@@ -2469,7 +2461,6 @@
 6/24/14,5 Stars (Epic),Total Science feat. Riya,Redlines (Break Remix)
 6/24/14,5 Stars (Epic),Underworld,Jal To Tokyo
 6/24/14,5 Stars (Epic),Wretch 32 feat. Ed Sheeran,Hush Little Baby (Fred V & Grafix Remix)
-6/24/14,4 Stars (Massive),ABAKUS,We Need Those Papers
 6/24/14,4 Stars (Massive),Alaska + Paradox,Shinjuku
 6/24/14,4 Stars (Massive),Autumn,Cut Away
 6/24/14,4 Stars (Massive),Avalanches,Tonight (Commix Remix)
@@ -2477,14 +2468,6 @@
 6/24/14,4 Stars (Massive),BCEE,Count The Stars (feat Lingby - Hybrid Minds remix)
 6/24/14,4 Stars (Massive),BCee & Bladerunner,In The Shadows
 6/24/14,4 Stars (Massive),BCee Ft. Jo S,Mr Bidigan (Total Science Remix)
-6/24/14,4 Stars (Massive),Benefit,06 Fairwell
-6/24/14,4 Stars (Massive),Benefit,08 If Owned A Midget
-6/24/14,4 Stars (Massive),Benoît Pioulard,Sault
-6/24/14,4 Stars (Massive),Benoît Pioulard,Shouting Distance
-6/24/14,4 Stars (Massive),Benoît Pioulard,Lasted
-6/24/14,4 Stars (Massive),Binary Star,The Saga Continues
-6/24/14,4 Stars (Massive),Binary Star,Monsters
-6/24/14,4 Stars (Massive),Binary Star,Word'em Up
 6/24/14,4 Stars (Massive),Black Sun Empire feat. Inne Eysermans,Killing The Light
 6/24/14,4 Stars (Massive),Blame,Hypnotised (Ft JT Fitz)
 6/24/14,4 Stars (Massive),Blame,Alright (Bring Me Down Again) (Ft Alex Mills)
@@ -2635,9 +2618,6 @@
 6/24/14,4 Stars (Massive),Martsman,8-Bit Bouncer
 6/24/14,4 Stars (Massive),Martyn,These Words ft. dBridge
 6/24/14,4 Stars (Massive),Metronomy,We Broke Free
-6/24/14,4 Stars (Massive),MF Doom as Viktor Vaughn [Mr Clean],Modern Day Mugging
-6/24/14,4 Stars (Massive),MF Doom Madvillian [Madvilliany],Shadows of Tomorrow Featuring Qua
-6/24/14,4 Stars (Massive),MF Doom Madvillian [Madvilliany],All Caps
 6/24/14,4 Stars (Massive),Modest Intentions,Look Around You
 6/24/14,4 Stars (Massive),MODUAL,Greed
 6/24/14,4 Stars (Massive),Mortem,Praxis
@@ -2668,11 +2648,6 @@
 6/24/14,4 Stars (Massive),Phil Tangent,Contrition
 6/24/14,4 Stars (Massive),Phil Tangent,Squaring The Circle
 6/24/14,4 Stars (Massive),Planet Perfecto,Bullet In The Gun (Drum & Bass remix)
-6/24/14,4 Stars (Massive),The Postal Service,The District Sleeps Alone Tonight
-6/24/14,4 Stars (Massive),The Postal Service,Such Great Heights
-6/24/14,4 Stars (Massive),The Postal Service,Nothing Better
-6/24/14,4 Stars (Massive),The Postal Service,Brand New Colony
-6/24/14,4 Stars (Massive),The Postal Service,Turn Around
 6/24/14,4 Stars (Massive),The Prodigy,Music Reach (1234)
 6/24/14,4 Stars (Massive),QUEENSWAY,Path To The Sea
 6/24/14,4 Stars (Massive),Rameses B ft. Charlotte Haining,I Need You (Keeno Remix).(AGRMusic)
@@ -2689,7 +2664,7 @@
 6/24/14,4 Stars (Massive),S. Carey,Marfa
 6/24/14,4 Stars (Massive),"Sabre, Stray & Halogenix",Oblique
 6/24/14,4 Stars (Massive),Scenic,Afterglow
-6/24/14,4 Stars (Massive),Scenic & Advisory,01 Science Friction
+6/24/14,4 Stars (Massive),Scenic & Advisory,Science Friction
 6/24/14,4 Stars (Massive),Schematic,My Friend
 6/24/14,4 Stars (Massive),Scott Allen & Blade,Nobody Like You
 6/24/14,4 Stars (Massive),Scro,illusionist
@@ -2707,7 +2682,6 @@
 6/24/14,4 Stars (Massive),Seba,Never Let You Go
 6/24/14,4 Stars (Massive),Seba,Nightrider
 6/24/14,4 Stars (Massive),Seba,Painted Skys (Seathasky Remix)
-6/24/14,4 Stars (Massive),Seba,Seba Live at Sun and Bass 2011
 6/24/14,4 Stars (Massive),Seba & Krazy,Nebula
 6/24/14,4 Stars (Massive),Seba & Paradox,01 Time Starts Now
 6/24/14,4 Stars (Massive),Seba & Paradox,Last Goodbye
@@ -2739,24 +2713,14 @@
 6/24/14,4 Stars (Massive),Total Science feat Riya,Redlines
 6/24/14,4 Stars (Massive),Total Science Ft. Riya,See Your Face
 6/24/14,4 Stars (Massive),Totally Enormous Extinct Dinosaurs,Garden (Calibre Remix)
-6/24/14,4 Stars (Massive),Totally Enormous Extinct Dinosaurs,Tapes & Money (MJ Cole Remix)
 6/24/14,4 Stars (Massive),We The Wild,Body Electric (Blue)
 6/24/14,4 Stars (Massive),Charlene Soraia,Bike (Komatic Remix)
 6/24/14,4 Stars (Massive),MC Fats,01 Mr. Maverick
 6/24/14,4 Stars (Massive),Netsky,01 Starlight
 6/24/14,4 Stars (Massive),Seba,Morning Glory
-6/24/14,3 Stars (Fresh),ABAKUS,Silent Geometry
-6/24/14,3 Stars (Fresh),ABAKUS,A Tale Of The Moon
-6/24/14,3 Stars (Fresh),ABAKUS,Sudden Rush
-6/24/14,3 Stars (Fresh),ABAKUS,Folding Space
-6/24/14,3 Stars (Fresh),ABAKUS,The Sleeper Must Awaken
-6/24/14,3 Stars (Fresh),ABAKUS,Angelic
-6/24/14,3 Stars (Fresh),ABAKUS,I Had A Dream Last Night
-6/24/14,3 Stars (Fresh),Adele,Hometown Glory (High Contrast
+6/24/14,3 Stars (Fresh),Adele,Hometown Glory (High Contrast Remix)
 6/24/14,3 Stars (Fresh),Adele,Rolling In The Deep (Nu:Tone Remix)
 6/24/14,3 Stars (Fresh),Alex Reece,Basic Principles
-6/24/14,3 Stars (Fresh),American Authors,Believer (2013)
-6/24/14,3 Stars (Fresh),American Authors,Best Day Of My Life (2013)
 6/24/14,3 Stars (Fresh),Andy Pain & Z Connection,Take Me Away
 6/24/14,3 Stars (Fresh),Andy Skopes & Mr Joseph,Trash Talk
 6/24/14,3 Stars (Fresh),Aphex Twin,Digeridoo
@@ -2846,13 +2810,11 @@
 6/24/14,3 Stars (Fresh),Cybass,it's a new life for me (big bud remix)
 6/24/14,3 Stars (Fresh),D Kay & Intoxicated,A Thinner Edge
 6/24/14,3 Stars (Fresh),D*Minds,Visions
-6/24/14,3 Stars (Fresh),Dakotafish & Trifonic,Landlocked (Trifonic Remix)
 6/24/14,3 Stars (Fresh),Danny Byrd,Round & Round
 6/24/14,3 Stars (Fresh),DBR UK,Stress Levels
 6/24/14,3 Stars (Fresh),dBridge,Rendezvous
 6/24/14,3 Stars (Fresh),dBridge,Cornered
 6/24/14,3 Stars (Fresh),Deekline & Ed Solo,English Queens Feat. Darrison
-6/24/14,3 Stars (Fresh),Depeche Mode,Barrel of a Gun
 6/24/14,3 Stars (Fresh),Deptford Goth,Feel Real
 6/24/14,3 Stars (Fresh),Die & Break,Grand Funk Hustle
 6/24/14,3 Stars (Fresh),DJ Fresh,Submarines (Domestic Cold War edit)
@@ -2896,19 +2858,15 @@
 6/24/14,3 Stars (Fresh),Fred V & Grafix,One Of These Days
 6/24/14,3 Stars (Fresh),Frederic Robinson,So Close To Being Human
 6/24/14,3 Stars (Fresh),Friction,Aurora
-6/24/14,3 Stars (Fresh),Frightened Rabbit,Today's Cross (2013)
-6/24/14,3 Stars (Fresh),Frightened Rabbit,The Woodpile (2013)
 6/24/14,3 Stars (Fresh),Furi Anga,Creonize
 6/24/14,3 Stars (Fresh),Furlonge,This Love (feat. Katie Alley)
 6/24/14,3 Stars (Fresh),Future Prophecies,The Dawn - Original Mix
 6/24/14,3 Stars (Fresh),Future Prophecies,Dreadlock
 6/24/14,3 Stars (Fresh),Future Prophecies,Magnetic
-6/24/14,3 Stars (Fresh),FYFE,St Tropez (2013)
-6/24/14,3 Stars (Fresh),General Fiasco,Waves (2013)
 6/24/14,3 Stars (Fresh),Getz,Open Your Heart
 6/24/14,3 Stars (Fresh),Glide,Extasy (MF remix)
 6/24/14,3 Stars (Fresh),Goldroom,Embrace
-6/24/14,3 Stars (Fresh),Grafix,01 This World
+6/24/14,3 Stars (Fresh),Grafix,This World
 6/24/14,3 Stars (Fresh),Grafix,Body Talk
 6/24/14,3 Stars (Fresh),Grafix,Lack Of Motion
 6/24/14,3 Stars (Fresh),Grafix,Make Me Feel
@@ -2939,7 +2897,6 @@
 6/24/14,3 Stars (Fresh),Invaders Of Nine,Solar Flare
 6/24/14,3 Stars (Fresh),Irrelevant feat. Brad Sucks,Better Off In Me (Calibre Remix)
 6/24/14,3 Stars (Fresh),Jaheim,Put That Woman First (Calibre Vocal Remix)
-6/24/14,3 Stars (Fresh),Jai Paul,Track 10
 6/24/14,3 Stars (Fresh),Jakwob,Blinding (Hybrid Minds Remix)
 6/24/14,3 Stars (Fresh),James Blake,The Wilhelm Scream
 6/24/14,3 Stars (Fresh),James Blake,Life Round Here
@@ -2951,10 +2908,7 @@
 6/24/14,3 Stars (Fresh),Jungle Junx,Sheer Bliss feat. La Yee - Original Mix
 6/24/14,3 Stars (Fresh),Junip,"Your life, your call"
 6/24/14,3 Stars (Fresh),Karma,Love & Happiness
-6/24/14,3 Stars (Fresh),Keaton Henson,Beekeeper (2013)
 6/24/14,3 Stars (Fresh),Klute,No Mistake
-6/24/14,3 Stars (Fresh),The Knife,Wrap Your Arms Around Me
-6/24/14,3 Stars (Fresh),The Knife,Stay Out Here
 6/24/14,3 Stars (Fresh),Komatic,Silently She Cries
 6/24/14,3 Stars (Fresh),Komatic,Now She's Free (Technicolour Remix)
 6/24/14,3 Stars (Fresh),Kosheen,Harder They Fall
@@ -3039,20 +2993,13 @@
 6/24/14,3 Stars (Fresh),NuTone feat. Ben Westbeech,The Feeling
 6/24/14,3 Stars (Fresh),Omar Faruk Tekbilek,Shashkin (Hefner Remix)
 6/24/14,3 Stars (Fresh),Opuscape,In The Clouds
-6/24/14,3 Stars (Fresh),OWEN420/MF DOOM,My Favorite Ladies (Cassie Blend)
 6/24/14,3 Stars (Fresh),Oxide And Neutrino,What R U Fast Mix
 6/24/14,3 Stars (Fresh),Panacea,Underground Superstar
 6/24/14,3 Stars (Fresh),Paradox,Curse Of Coincidence
 6/24/14,3 Stars (Fresh),Pendulum,Hold Your Colour
 6/24/14,3 Stars (Fresh),Peshay,P Vs P
 6/24/14,3 Stars (Fresh),Polar,Hi Volts (Seba Remix)
-6/24/14,3 Stars (Fresh),The Postal Service,Sleeping In
-6/24/14,3 Stars (Fresh),The Postal Service,This Place Is A Prison
-6/24/14,3 Stars (Fresh),The Postal Service,Natural Anthem
-6/24/14,3 Stars (Fresh),The Postal Service,Be Still My Heart
-6/24/14,3 Stars (Fresh),The Postal Service,Nothing Better (Styrofoam Remix)
-6/24/14,3 Stars (Fresh),Rachel Zeffira,Break The Spell (2013)
-6/24/14,3 Stars (Fresh),Radicall,OpusIII - fine day (Radicall rmx)
+6/24/14,3 Stars (Fresh),Radicall & Opus,Fine day (Radicall rmx)
 6/24/14,3 Stars (Fresh),Radicall,transitor
 6/24/14,3 Stars (Fresh),"Random Movement, Jaybee",Good Enough
 6/24/14,3 Stars (Fresh),Recipher,The Fur
@@ -3065,8 +3012,6 @@
 6/24/14,3 Stars (Fresh),S.P.Y.,By Your Side (Logistics Remix)
 6/24/14,3 Stars (Fresh),S.P.Y.,What The Future Holds (Feat. Ian Shaw)
 6/24/14,3 Stars (Fresh),Salaryman,Away From Here
-6/24/14,3 Stars (Fresh),Say Lou Lou,Fool Of Me (Feat. Chet Faker)
-6/24/14,3 Stars (Fresh),Say Lou Lou Ft. Chet Faker,Fool Of Me
 6/24/14,3 Stars (Fresh),Scenic & Advisory,First Sunrise (Fracture Design Remix)
 6/24/14,3 Stars (Fresh),Scenic & Advisory,Icicle
 6/24/14,3 Stars (Fresh),Scenic & Advisory,Dont Tell Me
@@ -3086,8 +3031,8 @@
 6/24/14,3 Stars (Fresh),Seba,Day By Night
 6/24/14,3 Stars (Fresh),Seba,34 Alpha
 6/24/14,3 Stars (Fresh),Seba,Your Deepest Love
-6/24/14,3 Stars (Fresh),Seba,01 Warriors
-6/24/14,3 Stars (Fresh),Seba,02 Legion
+6/24/14,3 Stars (Fresh),Seba,Warriors
+6/24/14,3 Stars (Fresh),Seba,Legion
 6/24/14,3 Stars (Fresh),Seba,A Wonderfull World
 6/24/14,3 Stars (Fresh),Seba & Paradox,Move On
 6/24/14,3 Stars (Fresh),Seba & Paradox,Move On (Dub)
@@ -3133,17 +3078,6 @@
 6/24/14,3 Stars (Fresh),Tom Odell,Another Love (2013)
 6/24/14,3 Stars (Fresh),Total Science,Skinz
 6/24/14,3 Stars (Fresh),Trace,Mutationz (Concord Dawn Rmx)
-6/24/14,3 Stars (Fresh),Underworld,Push Downstairs
-6/24/14,3 Stars (Fresh),Underworld,Beautiful Burnout (Pig & Dan Remix)
-6/24/14,3 Stars (Fresh),Underworld,Play Pig (Robag Mix with Melody)
-6/24/14,3 Stars (Fresh),Underworld,8 Ball
-6/24/14,3 Stars (Fresh),Underworld,Two Months Off (John Ciafone Mix)
-6/24/14,3 Stars (Fresh),Underworld,Tiny Clicks
-6/24/14,3 Stars (Fresh),Underworld,Two Months Off (King Unique Sunspot Vocal Mix)
-6/24/14,3 Stars (Fresh),Underworld,Quick Bit
-6/24/14,3 Stars (Fresh),Underworld,Play Pig (Wighnomy & Robag Wruhme Moosmutzel with Melody)
-6/24/14,3 Stars (Fresh),variant k,in your eyes (garage.raver.aft
-6/24/14,3 Stars (Fresh),Vinnie Paz,Street Wars
 6/24/14,3 Stars (Fresh),Wickaman & Hoodlum & Mavrick,All Junglist
 6/24/14,3 Stars (Fresh),Wilkinson,Afterglow (Cyantific Remix)
 6/24/14,3 Stars (Fresh),Wilkinson,Afterglow
