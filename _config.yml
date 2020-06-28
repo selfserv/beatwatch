@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
-title: BeatWatch℠ - The Drum & Bass Music Ratings Authority
-description: BeatWatch℠ is the authority on Drum & Bass music ratings. We help you find the best drum & bass music. We keep digging through the crates so you don't have to!
+title: BeatWatch℠ - The Ratings Authority of Drum & Bass Music
+description: BeatWatch℠ is the ratings authority of Drum & Bass music. We help you find the best drum & bass music. We keep digging through the crates so you don't have to!
 url: "https://beat.watch"
 plugins:
   - jekyll-sitemap
