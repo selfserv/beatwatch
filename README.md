@@ -1,4 +1,4 @@
-### We help you find the best drum & bass music. We keep digging through the crates so you don't have to!
+<p style="text-align: center;"><b>We help you find the best drum & bass music. We keep digging through the crates so you don't have to!</b></p>
 <table id="sampleTable" class="display">
   {% for row in site.data.choons | sort: 'Rating' | reverse  %}
     {% if forloop.first %}
@@ -15,4 +15,4 @@
   {% endfor %}
 </table>
 {% include advertisements.html %}
-<center><footer>Copyright 2020 <a href='https://www.linkedin.com/in/csluken/'>Chris Luken</a>. All rights reserved.</footer></center>
+<center><footer>&copy; 2020 by <a href='https://www.linkedin.com/in/csluken/'>Chris Luken</a>. All Rights Reserved.</footer></center>
