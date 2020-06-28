@@ -15,4 +15,4 @@
   {% endfor %}
 </table>
 {% include advertisements.html %}
-<center><footer>&copy; 2020 by <a href='https://www.linkedin.com/in/csluken/'>Chris Luken</a>. All Rights Reserved.</footer></center>
+<center><footer>&copy; 2020 <a href='https://www.linkedin.com/in/csluken/'>Chris Luken</a>. All Rights Reserved.</footer></center>
