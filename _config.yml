@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
-title: Beat.Watch - The Drum & Bass Music Ratings Authority
-description: We help you find the best drum & bass music. We dig through the crates so you don't have to.
+title: Beat.Watch - Drum & Bass Music Ratings
+description: We help you find the best drum & bass music. We dig through the crates so you don't have to!
 url: "https://beat.watch"
 plugins:
   - jekyll-sitemap
