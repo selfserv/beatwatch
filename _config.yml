@@ -1,7 +1,8 @@
 theme: jekyll-theme-hacker
 title: Beat.Watch - The Drum & Bass Music Ratings Authority
 description: We help you find the best drum & bass music. We dig through the crates so you don't have to.
-description: Give us a shout in the [Bassdrive.com] chatroom: freshest_beets in #bassdrive @ irc.echo34.com
+description: [Register] (https://www.facebook.com/wadjitdnb/posts/how-to-listenchat-on-bassdrivecomstream-httpwwwbassdrivecombassdrivepls-128k-pre/424888534239495/) for the [#bassdrive] (https://www.bassdrive.com/) chatroom and give freshest_beets a shout!
 url: "https://beat.watch"
 plugins:
   - jekyll-sitemap
+google_analytics: UA-59188526-1
