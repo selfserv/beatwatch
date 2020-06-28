@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
 title: Beat.Watch - The Drum & Bass Music Ratings Authority
 description: We help you find the best drum & bass music. We dig through the crates so you don't have to.
-author: Chris Luken - linkedin.com/csluken
+plugins:
+  - jekyll-sitemap
