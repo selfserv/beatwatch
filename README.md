@@ -13,3 +13,4 @@
     {% endtablerow %}
   {% endfor %}
 </table>
+{% include advertisements.html %}
