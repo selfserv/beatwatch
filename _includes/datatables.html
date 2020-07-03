@@ -4,9 +4,7 @@
     $(document).ready(function () {
         $('#choons').DataTable({
             // You can set options from https://datatables.net/reference/option/
-            "processing": true,
-            "paging": true,
-            "deferRender": false,
+            "pageLength": 50,
             stateSave: true,
             "order": [[ 0, 'desc' ]]
         });
