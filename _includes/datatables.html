@@ -5,7 +5,11 @@
         $('#choons').DataTable({
             // You can set options from https://datatables.net/reference/option/
             "order": [[ 0, 'desc' ]]
-            "pageLength": 100
+            "processing": true
+            "paging": true
+            "deferRender": false
+            "stateSave": false
+            "info": true
         });
     });
 </script>
