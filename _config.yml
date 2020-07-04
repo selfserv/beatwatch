@@ -1,5 +1,5 @@
-remote_theme: akiritsu/pRoJEct-NeGYa
-# OLD - theme: jekyll-theme-primer
+# TEST - remote_theme: akiritsu/pRoJEct-NeGYa
+theme: jekyll-theme-primer
 # TEST - remote_theme: andrewbanchich/forty-jekyll-theme
 title: Beat.Watch&#8480; - Qualitative Ratings Authority for Drum & Bass Music
 description: Beat.Watch&#8480; is the leading qualitative ratings authority for the Drum & Bass musical genre. We help you find the best drum & bass music by reviewing new releases on a monthly basis (so you don't have to)!
