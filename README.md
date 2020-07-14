@@ -22,3 +22,13 @@ bundle exec jekyll serve
 You'll see a confirmation message of the server address where you can view your work locally, something like http://127.0.0.1:4000
 
 Happy hacking!
+
+
+## Exporting Playlists
+
+Here are learnings about how to export a playlist from certain sources.
+
+
+### From Spotify
+
+https://github.com/watsonbox/exportify
