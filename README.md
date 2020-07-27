@@ -1,6 +1,6 @@
 # Beat.Watch
 
-The leading qualitative ratings authority for the Drum & Bass musical genre.
+Thorough qualitative ratings for the Drum & Bass musical genre.
 
 
 ## Local Development
